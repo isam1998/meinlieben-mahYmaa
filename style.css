@@ -5,12 +5,12 @@
 justify-content:space-around;
 }
 
-.internal{text-align: center;margin-left: 2%;
+.internal{text-align: center;
   width:130px;height: 130px;margin: 20px;
   border: 2px solid #555;
 border-radius: 10px;
 }
-.internal2{text-align: center;margin-left: 2%;
+.internal2{text-align: center;
   width:130px;height: 130px;margin: 20px;
   border: 2px solid #555;
 border-radius: 60px;}
