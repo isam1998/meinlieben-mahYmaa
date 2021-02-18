@@ -1,7 +1,7 @@
 *{-webkit-box-sizing:border-box;
 -moz-box-sizing:border-box;
 -o-box-sizing:border-box;}
-.card{display: flex;align-items: center;
+.card{display: flex;
 justify-content:space-around;
 }
 
